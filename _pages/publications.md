@@ -2,7 +2,7 @@
 layout: archive
 title: "Deepti R. Bathula"
 permalink: /publications/
-author_profile: false
+author_profile: true
 redirect_from:
   - /resume
 ---
@@ -28,6 +28,17 @@ J. I. Orlando, H. Fu, J. B. Breda, K. Keer, D. R. Bathula, A. Diaz-Pinto, R. Fan
 * D. A. Fair, D. R. Bathula, K. L. Mills, T. G. Costa Dias, M. S. Blythe, D. Zhang, A. Z. Snyder, M. E. Raichle, A. A. Stevens, J. T. Nigg, B. J. Nagel, “Maturing thalamocortical functional connectivity across development”, Frontiers in Systems Neuroscience, 4:10, May 2010.
 
 # Peer-Reviewed Conference Publications
+* U. Niyaz, A. S. Sambyal, D. R. Bathula,  Wavelet-Based Feature Compression for Improved Knowledge Distillation, IEEE 21st Int. Sym. on Biomedical Imaging (ISBI), May 2024.
+* A. Chaudhuri, A. S. Sambyal, D. R. Bathula,  Mutually Exclusive Multi-Modal Approach for Parkinson’s Disease Classification, 11th International Conference on Bioimging, February 2024.
+* J. S. Virk, D. Mahapatra, D. R. Bathula,  Medical VQA: MixUp Helps Keep it Simple,. The 37th International Conference on Image and Vision Computing New Zealand (IVCNZ), November 2022. 
+* U. Niyaz, D. R. Bathula, Augmenting Knowledge Distillation With Peer-To-Peer Mutual Learning For Model Compression, IEEE 19th Int. Sym. on Biomedical Imaging (ISBI), March 2022.
+* A. S. Sambyal, N. C. Krishnan, D. R. Bathula, Towards Reducing Aleatoric Uncertainty for Medical Imaging Tasks, IEEE 19th Int. Sym. on Biomedical Imaging (ISBI), March 2022. 
+* R. R. Chowdhury, D. R. Bathula, Influential Prototypical Networks for Few Shot Learning: A Dermatological Case Study. IEEE 19th Int. Sym. on Biomedical Imaging (ISBI), March 2022.
+* A. J. Thomas, D. R. Bathula,  3D Multi-voxel pattern based machine learning for multi-center fMRI data normalization. 6th IAPR International Conference on Computer Vision & Image Processing (CVIP), December 2021.
+* S. Bagchi, D. R. Bathula,  Adequately Wide 1D CNN facilitates improved EEG based Visual Object Recognition. 29th European Signal Processing Conference (EUSIPCO), 1276-1280, August 2021.     
+* J. S. Virk, D. R. Bathula,  Domain-Specific, Semi-Supervised Transfer Learning for Medical Imaging. ACM International Joint Conference on Data Science and Management of Data (CODS-COMAD), January 2021
+* S. Bagchi, A. Banerjee, D. R. Bathula,  Learning a meta-ensemble technique for skin lesion classification and novel class detection. IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, June 2020.
+* A. Sikka, S. S. R. Phaye, A. Dhall, D. R. Bathula, Multi-level Dense Capsule Networks, Asian Conference on Computer Vision (ACCV), December 2018.
 * A. Sikka, S. V. Peri, Dr. R. Bathula, “MRI to FDG-PET: Cross-Modal Synthesis Using 3D U-Net For Multi-Modal Alzheimer’s Classification“, Medical Image Computing and Computer Assisted Intervention (MICCAI) – Simulation and Synthesis in Medical Imaging (SASHIMI) Workshop, September 2018, Spain.
 * A. Sikka, G. Mittal, D. R. Bathula, N. C. Krishnan, “Supervised deep segmentation network for brain extraction,” Proceedings of the Tenth Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP), Dec 18-22 2016, Guwahati, Assam, India.
 * G. Bansal, P. Gera and D. R. Bathula, “Template based Classification of Cardiac Arrhythmia in ECG Data“, IEEE International Conference on Recent Trends in Information Systems (ReTIS-15), Jul 9 -11, 2015, Jadavpur University, Kolkata, India.
