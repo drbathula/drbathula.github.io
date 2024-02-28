@@ -24,9 +24,10 @@ author:
   avatar           : "Deepti-Bathula.jpg"
   name             : "Deepti R. Bathula"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor, CSE"
-  location         : "Earth"
+  bio              : "Associate Professor \n Department of Computer Science & Engineering"
+  
   employer         : "Indian Institute of Technology Ropar"
+  location         : "Earth"
   uri              : # URL
   email            : "bathula@iitrpr.ac.in" 
 
