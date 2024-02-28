@@ -3,8 +3,7 @@ permalink: /research/
 title: "Research"
 author_profile: true
 redirect_from: 
-  - "/research/"
-  - "/research.html"
+
 ---
 
 ![](https://drbathula.github.io/images/CBIL3.png)
