@@ -1,0 +1,224 @@
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 40px;
+}
+
+a {
+  color: #1772d0;
+  text-decoration: none;
+  word-wrap: break-word;
+}
+
+a:focus,
+a:hover {
+  color: #f09228;
+  text-decoration: none;
+}
+
+body {
+  /* font-family: 'Lato', sans-serif; */
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: normal;
+  padding-top: 40px;
+}
+
+@media screen and (max-width: 445px) {
+    body { padding-top: 80px; }
+}
+/* 
+@media screen and (max-width: 768px) {
+    .profileimage { display: none; }
+} */
+
+heading {
+  font-size: 24px;
+  font-weight: 400;
+}
+
+papertitle {
+  font-weight: 700
+}
+
+name {
+  font-size: 32px;
+  font-weight: 300;
+}
+firstname {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+#introduction {
+  width:100%;
+  border:0px;
+  border-spacing:0px;
+  border-collapse:separate;
+  margin-right:auto;
+  margin-left:auto;
+  margin-bottom: 20px;
+}
+
+#news {
+  width:100%;
+  border:0px;
+  border-spacing:0px;
+  border-collapse:separate;
+  /* margin-right:auto;
+  margin-left:auto; */
+  font-size: 15px;
+  padding-right: 7px;
+  margin-bottom: 20px;
+}
+
+
+#publications {
+  width:100%;
+  border:0px;
+  border-spacing:0px;
+  border-collapse:separate;
+  margin-right:auto;
+  margin-left:auto;
+  margin-bottom: 20px;
+}
+
+#ta {
+  width:100%;
+  border:0px;
+  border-spacing:0px;
+  border-collapse:separate;
+  /* margin-right:auto;
+  margin-left:auto; */
+  padding-right: 5px;
+  margin-bottom: 20px;
+}
+
+.topbar a {
+  text-decoration: none;
+  color: white;
+}
+
+.topbar a:hover {
+  text-decoration: underline;
+  font-weight: 700;
+  color: white;
+}
+
+.paperlinks{
+  padding-top: 10px;
+}
+
+.ta {
+  padding-bottom: 7px;
+}
+
+.news 
+{
+  line-height:150%
+}
+
+.abstract_text {
+  font-size: 14px;
+  margin: 10px 12px 6px 0px; 
+}
+
+.bibtex_text {
+  font-size: 14px;
+  margin: 10px 6px 6px 0px; 
+  font-family: Roboto;
+  font-weight: 300;
+}
+
+.profileimage {
+  width:80%;
+  border-radius:20px;
+  background: #e0e0e0;
+  box-shadow:  20px 20px 60px #707070,
+             -20px -20px 60px #ffffff;
+  margin-left: 0px;
+  /* margin-top: 17px; */
+}
+
+#template-reference {
+  padding-right: 7px;
+}
+
+/* @media screen and ( max-width: 420px ){ */
+  /* td>img { */
+    /* width: 120px; */
+    /* border-radius: 50%; */
+  /* } */
+/* } */
+
+
+
+/* ################################################### */
+/* Boxed style for CV/Github and Publication: abstract/code etc. */
+
+.boxed:hover,.boxed:active {
+  text-decoration: underline;
+  /* background: #dbc9f1; */
+  background: #c9cef1;
+  color: #121212 !important
+}
+
+.boxed {
+  text-decoration: none !important;
+  color: #000 !important;
+  /* border: 1px solid #839cbf; */
+  border: 1px solid #839cbf;
+  font-family: monospace;
+  padding: 2px 5px 0px;
+  font-size: 14px;
+  /* background: #d4dce9; */
+  background: #FFF8DC;
+  display: inline-block;
+  vertical-align: bottom;
+  border-radius: 3px;
+  margin: 3px;
+}
+
+.boxed_publication:hover,.boxed_publication:active {
+  text-decoration: underline;
+  background: #dedede;
+  /* background: #dbc9f1; */
+  color: #121212 !important
+}
+.boxed_publication {
+  font-size: 12px;
+  background: 	#ffffff;
+  padding: 1px 5px 1px;
+  margin: 0px;
+}
+
+.badge {
+  vertical-align: top;
+}
+/* ################################################### */
+/* #########  END  ########### */
+/* ################################################### */
+
+
+
+
+
+/* ########################### */
+/* # Resource Page Stylesheet */
+/* ########################### */
+.heading-spacing{
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
+
+.listitem-spacing{
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.resource-heading li{
+  margin-top: 5px;
+}
+/* ########################### */
+/* #########  END  ########### */
+/* ########################### */
