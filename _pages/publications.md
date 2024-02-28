@@ -8,7 +8,17 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+  
 # Journal Publications
+* A. Sikka, S. V. Peri,  J. S. Virk, D. R. Bathula, MRI to PET Cross-Modality Translation using Globally and Locally Aware GAN (GLA-GAN) for Multi-Modal Diagnosis of Alzheimer's Disease. Submitted to Computers in Biology  & Medicine (arXiv preprint arXiv:2108.02160)
+* U. Niyaz, D. R. Bathula, Leveraging Different Learning Styles for Improved Knowledge Distillation, Computers in Biology & Medicine, 168, 2024.
+* A. S. Sambyal, U. Niyaz, N. C. Krishnan, D. R. Bathula, Understanding Calibration of Deep Neural Networks for Medical Image Classification, Computer Methods and Programs in Biomedicine, 242, 2023.
+* S. Gallo, A. ElGazzar, P. Zhutovsky, R. M. Thomas, N. Javaheripour, M. Li, D. R. Bathula, G. van Wingen, Thalamic hyperconnectivity as neurophysiological signature of major depressive disorder in two multicenter studies. Molecular Psychiatry, 2023.
+* S. Bagchi, D. R. Bathula, EEG-ConvTransformer for Single-Trial EEG based Visual Stimuli Classification. Pattern Recognition, 129, 2022.
+* S. Andersson, D. R. Bathula, S. I Iliadis, M. Walter, A. Skalkidou, Predicting women with depressive symptoms postpartum with machine learning methods. Scientific Reports,  11 (1), 1-15, April 2021.
+* A. Sikka, H. Jamalabadi,  M. Krylova,  S. Alizadeh,  J. N. van der Meer,  L. Danyeli,  M. Deliano,  P. Vicheva,  T. Hahn,  T. Koenig, D. R. Bathula, M. Walter, Investigating the temporal dynamics of electroencephalogram (EEG) microstates using recurrent neural networks. Human Brain Mapping, February 2020, Article 24949.
+J. I. Orlando, H. Fu, J. B. Breda, K. Keer, D. R. Bathula, A. Diaz-Pinto, R. Fang, P. Heng, J. Kim, J. Lee, J. Lee, X. Li, P. Liu, S. Lu, B. Murugesan, V. Naranjo, S. R. Phaye, S. M. Shankaranarayana, H. Bogunovic, A. Sikka, REFUGE Challenge: A unified framework for evaluating automated methods for glaucoma assessment from fundus photographs}. Medical Image Analysis, Volume 59, January 2020, Article 101570.
 * D. A. Fair, J. T. Nigg, S. Iyer, D. R. Bathula, K. L. Mills, N. U. F. Dosenbach, B. L. Schlaggar, M. Mennes, D. Gutman, S. Bangaru, J. K. Buitelaar, D. P. Dickstein, A. D. Martino, D. N. Kennedy, C. Kelly, B. Luna, J. Schweitzer, K. Velanova, Y. Wang, S. H. Mostofsky, F. X. Castellanos, M. Milham,”Distinct neural signatures detected for ADHD subtypes after controlling for micro-movements in resting state functional connectivity MRI data,” Frontiers in Systems Neuroscience, 6:80, Feb 2013
 * T. G. Costa Dias, V. B. Wilson, D. R. Bathula, S. P. Iyer, K. L. Mills, B. L. Thurlow, C. A. Stevens, E. D. Musser, S. D. Carpenter, D. S. Grayson, S. H. Mitchell, J. T. Nigg, D. A. Fair, “Reward circuit connectivity relates to delay discounting in children with attention-deficit/hyperactivity disorder,” European Neuropsychopharmacology, 23(1):33-45, Jan 2013
 * D. A. Fair, D. R. Bathula, M. A. Nikolas, J. T. Nigg, “Distinct neuropsychological subgroups in typically developing youth inform heterogeneity in children with ADHD,” Proceedings of the National Academy of Sciences USA, 109(17):6769-74, April 2012.
