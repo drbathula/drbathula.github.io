@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
 # Journal Publications
 * D. A. Fair, J. T. Nigg, S. Iyer, D. R. Bathula, K. L. Mills, N. U. F. Dosenbach, B. L. Schlaggar, M. Mennes, D. Gutman, S. Bangaru, J. K. Buitelaar, D. P. Dickstein, A. D. Martino, D. N. Kennedy, C. Kelly, B. Luna, J. Schweitzer, K. Velanova, Y. Wang, S. H. Mostofsky, F. X. Castellanos, M. Milham,”Distinct neural signatures detected for ADHD subtypes after controlling for micro-movements in resting state functional connectivity MRI data,” Frontiers in Systems Neuroscience, 6:80, Feb 2013
 * T. G. Costa Dias, V. B. Wilson, D. R. Bathula, S. P. Iyer, K. L. Mills, B. L. Thurlow, C. A. Stevens, E. D. Musser, S. D. Carpenter, D. S. Grayson, S. H. Mitchell, J. T. Nigg, D. A. Fair, “Reward circuit connectivity relates to delay discounting in children with attention-deficit/hyperactivity disorder,” European Neuropsychopharmacology, 23(1):33-45, Jan 2013
