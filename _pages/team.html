@@ -1,0 +1,88 @@
+---
+permalink: /terms/
+title: "Terms and Privacy Policy"
+modified: 2016-06-06
+---
+
+---
+layout: archive
+title: "Team!"
+permalink: /news/
+author_profile: true
+---
+
+{% include base_path %}
+
+<script type="text/javascript" src="../assets/js/hidebib.js"></script>
+
+<table width="100%" align="center" border="0" border-spacing="0" cellspacing="0" cellpadding="15" style="border:none;">
+<br/>
+  
+<tr style="border:none;">
+  <td width="30%" style="vertical-align: top; border:none;" valign="top" align="center">
+  <a href="https://diffusion-classifier.github.io/"></a>
+    <img src="../images/Bioimaging2024.png" alt="sym" width="90%" style="padding:10px;border-radius:15px;border:1px solid black">
+  </a></td>
+  <td width="70%" style="vertical-align: top; border:none;" valign="top">
+    <h2 style="margin-top: 0px;">Best Student Paper Award! </h2>
+    <p>
+    <!--<a href="https://diffusion-classifier.github.io/" id="MEMMPD"></a>-->
+    <heading>Mutually Exclusive Multi-Modal Approach for Parkinson’s Disease Classification</heading><br>
+    Arunava Chaudhuri, Abhishek Singh Sambyal and Deepti R. Bathula<br>
+    <em>Bioimaging 2024</em>
+    </p>
+
+    <div class="paper" id="MEMMPD">
+    <!--<a href="https://diffusion-classifier.github.io/">webpage</a> |-->
+    <a href="javascript:toggleblock('memmpd_abs')" class="boxed boxed_publication">abstract</a> |
+    <a shape="rect" href="javascript:togglebib('MEMMPD')" class="togglebib boxed boxed_publication">bibtex</a> |
+    <a href="https://arxiv.org/abs/2303.16203">arXiv</a> 
+    <!--<a href="https://github.com/diffusion-classifier/diffusion-classifier">code</a>-->
+
+    <p class="abstract_text" align="justify"> <span id="memmpd_abs" style="display: none;">Parkinson's Disease (PD) is a progressive neurodegenerative disorder that affects the central nervous system and causes both motor and non-motor symptoms. While movement related symptoms are the most noticeable early signs, others like loss of smell can occur quite early and are easy to miss. This suggests that multi-modal assessment has significant potential in early diagnosis of PD. Multi-modal analysis allows for synergistic fusion of complementary information for improved prediction accuracy. However, acquiring all modalities for all subjects is not only expensive but also impractical in some cases. This work attempts to address the missing modality problem where the data is mutually exclusive. Specifically, we propose to leverage two distinct and unpaired datasets to improve the classification accuracy of PD. We propose a two-stage strategy that combines individual modality classifiers to train a multi-modality classifier using Siamese network with Triplet Loss. Furthermore, we use a Max-Voting strategy applied to Mix-and-Match pairing of the unlabelled test sample of one modality with both positive and negative samples from the other modality for test-time inference. We conducted experiments using gait sensor data (PhysioNet) and clinical data (PPMI). Our experimental results demonstrate the efficacy of the proposed approach compared to the state-of-the-art methods using single modality analysis.</span></p>
+
+<pre xml:space="preserve" style="display:none;">
+@inproceedings{Chaudhuri2024MEMMPD,
+  title={Mutually Exclusive Multi-Modal Approach for Parkinson’s Disease Classification},
+  author={Chaudhuri, Arunava and Sambyal, Abhishek Singh and Bathula, Deepti R.},
+  booktitle={Bioimaging},
+  year={2024}}</pre>
+    </div>
+  </td>
+</tr>
+
+<tr style="border:none;">
+  <td width="30%" style="vertical-align: top; border:none;" valign="top" align="center">
+   <!--<a href="https://diffusion-classifier.github.io/"></a>-->
+  <img src="../images/ISBI2024.png" alt="sym" width="90%" style="padding-top:0px;padding-bottom:0px;border-radius:15px;border:1px solid black">
+  </td>
+  <td width="70%" style="vertical-align: top; border:none;" valign="top">
+    <h2 style="margin-top: 0px;">Accepted to ISBI 2024!</h2>
+    <p>
+    <!--<a href="https://diffusion-classifier.github.io/" id="WAVEKD"></a>-->
+    <heading>Wavelet-Based Feature Compression For Improved Knowledge Distillation</heading><br>
+    Usma Niyaz, Abhishek Singh Sambyal and Deepti R. Bathula<br>
+    <em>21st IEEE International Symposium on Biomedical Imaging 2024</em>
+    </p>
+
+    <div class="paper" id="WAVEKD">
+    <!--<a href="https://diffusion-classifier.github.io/">webpage</a> |-->
+    <a href="javascript:toggleblock('wavekd_abs')">abstract</a> |
+    <a shape="rect" href="javascript:togglebib('WAVEKD')" class="togglebib">bibtex</a> |
+    <a href="https://arxiv.org/abs/2303.16203">arXiv</a> 
+    <!--<a href="https://github.com/diffusion-classifier/diffusion-classifier">code</a>-->
+
+    <p class="abstract_text" align="justify"> <span id="wavekd_abs" style="display: none;">Deep learning (DL) models can achieve state-of-the-art performance but at the cost of high computation and memory requirements. Due to their large capacity, DL models have the tendency to learn redundant features. In this work, we exploit this redundancy to improve model compression. Knowledge distillation (KD) aims to achieve model compression by transferring knowledge from a large, complex model to a simple, lightweight model. We propose an enhanced KD strategy that improves the efficiency of the distillation process by compressing the feature maps using Discrete Wavelet Transformation DWT, which helps capture crucial features from complex biomedical signals. Retaining and sharing only the most informative and discriminating features facilitates more effective feature mimicking. Extensive experiments using two benchmark datasets for Melanoma and Histopathology image classification tasks demonstrate the superiority of our proposed method over existing techniques. We further establish the generalizability and robustness of our method using two different teacher-student architectures and ablation studies.</span></p>
+
+<pre xml:space="preserve" style="display:none;">
+@inproceedings{Niyaz2024ISBI,
+  title={Wavelet-Based Feature Compression For Improved Knowledge Distillation},
+  author={Niyaz, Usma and Sambyal, Abhishek Singh and Bathula, Deepti R.},
+  booktitle={ISBI},
+  year={2024}}
+</pre>
+    </div>
+  </td>
+</tr>
+  
+</table>
