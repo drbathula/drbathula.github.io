@@ -113,6 +113,11 @@ firstname {
   padding-bottom: 7px;
 }
 
+.td {
+  vertical-align: top;
+  border: 0px 
+}
+
 .news 
 {
   line-height:150%
@@ -194,11 +199,6 @@ firstname {
 
 .badge {
   vertical-align: top;
-}
-
-.td {
-  vertical-align: top;
-  border: 0px 
 }
 /* ################################################### */
 /* #########  END  ########### */
