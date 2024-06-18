@@ -26,6 +26,7 @@ redirect_from:
 * D. A. Fair, D. R. Bathula, K. L. Mills, T. G. Costa Dias, M. S. Blythe, D. Zhang, A. Z. Snyder, M. E. Raichle, A. A. Stevens, J. T. Nigg, B. J. Nagel, “Maturing thalamocortical functional connectivity across development”, Frontiers in Systems Neuroscience, 4:10, May 2010.
 
 # Peer-Reviewed Conference Publications
+* A. S. Sambyal, U. Niyaz, N. C. Krishnan, D. R. Bathula, LS+: Informed Label Smoothing for Improving Calibration in Medical Image Classification, Medical Image Computing and Computer Assisted Interventions (MICCAI), Oct 2024.
 * U. Niyaz, A. S. Sambyal, D. R. Bathula,  Wavelet-Based Feature Compression for Improved Knowledge Distillation, IEEE 21st Int. Sym. on Biomedical Imaging (ISBI), May 2024.
 * A. Chaudhuri, A. S. Sambyal, D. R. Bathula,  Mutually Exclusive Multi-Modal Approach for Parkinson’s Disease Classification, 11th International Conference on Bioimging, February 2024.
 * J. S. Virk, D. Mahapatra, D. R. Bathula,  Medical VQA: MixUp Helps Keep it Simple,. The 37th International Conference on Image and Vision Computing New Zealand (IVCNZ), November 2022. 
