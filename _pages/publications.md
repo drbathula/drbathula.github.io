@@ -28,6 +28,7 @@ redirect_from:
 * D. A. Fair, D. R. Bathula, K. L. Mills, T. G. Costa Dias, M. S. Blythe, D. Zhang, A. Z. Snyder, M. E. Raichle, A. A. Stevens, J. T. Nigg, B. J. Nagel, “Maturing thalamocortical functional connectivity across development”, Frontiers in Systems Neuroscience, 4:10, May 2010.
 
 # Peer-Reviewed Conference Publications
+* R. R. Chowdhury, U. Niyaz, D. R. Bathula, “Dual-Level Adaptive Sampling for Enhanced Few-Shot Medical Image Classification”, 7th IEEE Symposium on Computers & Informatics (ISCI), August 2025.
 * A. S. Sambyal, U. Niyaz, N. C. Krishnan, D. R. Bathula, “LS+: Informed Label Smoothing for Improving Calibration in Medical Image Classification”, Medical Image Computing and Computer Assisted Interventions (MICCAI), Oct 2024.
 * U. Niyaz, A. S. Sambyal, D. R. Bathula,  “Wavelet-Based Feature Compression for Improved Knowledge Distillation”, IEEE 21st Int. Sym. on Biomedical Imaging (ISBI), May 2024.
 * A. Chaudhuri, A. S. Sambyal, D. R. Bathula,  “Mutually Exclusive Multi-Modal Approach for Parkinson’s Disease Classification”, 11th International Conference on Bioimging, February 2024.
@@ -50,6 +51,7 @@ redirect_from:
 * D. R. Bathula, X. Papademetris and J. S. Duncan, “Level Set-Based Clustering of Active Regions in Functional MRI,” IEEE Int. Sym. on Biomedical Imaging (ISBI), 416 – 419, April 2007, Arlington.
 
 # Extended Abstracts-Posters
+* R. R. Chowdhury, U. Niyaz, D. R. Bathula, “Class-Wise Feature Map Selection Based Prototypical Networks”, IEEE 21st Int. Sym. on Biomedical Imaging (ISBI), May 2024.
 * P. Madaan, D. R. Bathula, P. Dhir, S. Negi, N. Sankhyan, S. Vyas, J. Sahu, “Resting-state functional MRI-based connectivity analysis in infantile epileptic spasms syndrome”, International Child Neurology Conference (ICNC), May 2024, Cape Town, South Africa.
 * A. Bilal, D. R. Bathula, E. Bränn, E. Fransson, J. S. Virk, F. Papadopoulos, A. Skalkidou, “Mom2B: a study of perinatal health via smartphone application and machine learning methods”, 65(S1), S574-S575, European Psychiatry, 2022.
 * M. Li, N. Sharma, L. Danyeli, L. Colic, N. Opel, T. Chand, W. Qin, D. R. Bathula, M. Goswami, B. Zhang, Z. Duygu Sen, M. Walter, “Ketamine-Induced Ego Dissolution is Related to the Functional Connectivity Reconfiguration of the Posteromedial Cortex”, 93(9), S93, Biological Psychiatry, 2023
