@@ -37,9 +37,9 @@ redirect_from:
 * U. Niyaz, D. R. Bathula, <i>“Augmenting Knowledge Distillation With Peer-To-Peer Mutual Learning For Model Compression”</i>, IEEE 19th Int. Sym. on Biomedical Imaging (ISBI), March 2022.
 * A. S. Sambyal, N. C. Krishnan, D. R. Bathula, <i>“Towards Reducing Aleatoric Uncertainty for Medical Imaging Tasks”</i>, IEEE 19th Int. Sym. on Biomedical Imaging (ISBI), March 2022. 
 * R. R. Chowdhury, D. R. Bathula, <i>“Influential Prototypical Networks for Few Shot Learning: A Dermatological Case Study”</i>, IEEE 19th Int. Sym. on Biomedical Imaging (ISBI), March 2022.
-* A. J. Thomas, D. R. Bathula,  “3D Multi-voxel pattern based machine learning for multi-center fMRI data normalization”, 6th IAPR International Conference on Computer Vision & Image Processing (CVIP), December 2021.
-* S. Bagchi, D. R. Bathula,  “Adequately Wide 1D CNN facilitates improved EEG based Visual Object Recognition”, 29th European Signal Processing Conference (EUSIPCO), 1276-1280, August 2021.     
-* J. S. Virk, D. R. Bathula,  “Domain-Specific, Semi-Supervised Transfer Learning for Medical Imaging”, ACM International Joint Conference on Data Science and Management of Data (CODS-COMAD), January 2021
+* A. J. Thomas, D. R. Bathula,  <i>“3D Multi-voxel pattern based machine learning for multi-center fMRI data normalization”</i>, 6th IAPR International Conference on Computer Vision & Image Processing (CVIP), December 2021.
+* S. Bagchi, D. R. Bathula,  <i>“Adequately Wide 1D CNN facilitates improved EEG based Visual Object Recognition”</i>, 29th European Signal Processing Conference (EUSIPCO), 1276-1280, August 2021.     
+* J. S. Virk, D. R. Bathula,  <i>“Domain-Specific, Semi-Supervised Transfer Learning for Medical Imaging”</i>, ACM International Joint Conference on Data Science and Management of Data (CODS-COMAD), January 2021
 * S. Bagchi, A. Banerjee, D. R. Bathula,  “Learning a meta-ensemble technique for skin lesion classification and novel class detection”, IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, June 2020.
 * A. Sikka, S. S. R. Phaye, A. Dhall, D. R. Bathula, “Multi-level Dense Capsule Networks”, Asian Conference on Computer Vision (ACCV), December 2018.
 * A. Sikka, S. V. Peri, Dr. R. Bathula, “MRI to FDG-PET: Cross-Modal Synthesis Using 3D U-Net For Multi-Modal Alzheimer’s Classification”, Medical Image Computing and Computer Assisted Intervention (MICCAI) – Simulation and Synthesis in Medical Imaging (SASHIMI) Workshop, September 2018, Spain.
