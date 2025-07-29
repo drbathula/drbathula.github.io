@@ -33,10 +33,10 @@ redirect_from:
 * A. S. Sambyal, U. Niyaz, N. C. Krishnan, D. R. Bathula, <i>“LS+: Informed Label Smoothing for Improving Calibration in Medical Image Classification”</i>, Medical Image Computing and Computer Assisted Interventions (MICCAI), Oct 2024.
 * U. Niyaz, A. S. Sambyal, D. R. Bathula,  <i>“Wavelet-Based Feature Compression for Improved Knowledge Distillation”</i>, IEEE 21st Int. Sym. on Biomedical Imaging (ISBI), May 2024.
 * A. Chaudhuri, A. S. Sambyal, D. R. Bathula,  <i>“Mutually Exclusive Multi-Modal Approach for Parkinson’s Disease Classification”</i>, 11th International Conference on Bioimging, February 2024.
-* J. S. Virk, D. Mahapatra, D. R. Bathula,  “Medical VQA: MixUp Helps Keep it Simple”, The 37th International Conference on Image and Vision Computing New Zealand (IVCNZ), November 2022. 
-* U. Niyaz, D. R. Bathula, “Augmenting Knowledge Distillation With Peer-To-Peer Mutual Learning For Model Compression”, IEEE 19th Int. Sym. on Biomedical Imaging (ISBI), March 2022.
-* A. S. Sambyal, N. C. Krishnan, D. R. Bathula, “Towards Reducing Aleatoric Uncertainty for Medical Imaging Tasks”, IEEE 19th Int. Sym. on Biomedical Imaging (ISBI), March 2022. 
-* R. R. Chowdhury, D. R. Bathula, “Influential Prototypical Networks for Few Shot Learning: A Dermatological Case Study”, IEEE 19th Int. Sym. on Biomedical Imaging (ISBI), March 2022.
+* J. S. Virk, D. Mahapatra, D. R. Bathula,  <i>“Medical VQA: MixUp Helps Keep it Simple”</i>, The 37th International Conference on Image and Vision Computing New Zealand (IVCNZ), November 2022. 
+* U. Niyaz, D. R. Bathula, <i>“Augmenting Knowledge Distillation With Peer-To-Peer Mutual Learning For Model Compression”</i>, IEEE 19th Int. Sym. on Biomedical Imaging (ISBI), March 2022.
+* A. S. Sambyal, N. C. Krishnan, D. R. Bathula, <i>“Towards Reducing Aleatoric Uncertainty for Medical Imaging Tasks”</i>, IEEE 19th Int. Sym. on Biomedical Imaging (ISBI), March 2022. 
+* R. R. Chowdhury, D. R. Bathula, <i>“Influential Prototypical Networks for Few Shot Learning: A Dermatological Case Study”</i>, IEEE 19th Int. Sym. on Biomedical Imaging (ISBI), March 2022.
 * A. J. Thomas, D. R. Bathula,  “3D Multi-voxel pattern based machine learning for multi-center fMRI data normalization”, 6th IAPR International Conference on Computer Vision & Image Processing (CVIP), December 2021.
 * S. Bagchi, D. R. Bathula,  “Adequately Wide 1D CNN facilitates improved EEG based Visual Object Recognition”, 29th European Signal Processing Conference (EUSIPCO), 1276-1280, August 2021.     
 * J. S. Virk, D. R. Bathula,  “Domain-Specific, Semi-Supervised Transfer Learning for Medical Imaging”, ACM International Joint Conference on Data Science and Management of Data (CODS-COMAD), January 2021
