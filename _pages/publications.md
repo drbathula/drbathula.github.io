@@ -28,6 +28,7 @@ redirect_from:
 * D. A. Fair, D. R. Bathula, K. L. Mills, T. G. Costa Dias, M. S. Blythe, D. Zhang, A. Z. Snyder, M. E. Raichle, A. A. Stevens, J. T. Nigg, B. J. Nagel, “Maturing thalamocortical functional connectivity across development”, Frontiers in Systems Neuroscience, 4:10, May 2010.
 
 # Peer-Reviewed Conference Publications
+* U. Niyaz, D. R. Bathula, ShapeDistill: “Shape-Constrained Knowledge Distillation for Medical Segmentation”, 18th International Conference on Machine Vision (ICMV), October 2025.
 * R. R. Chowdhury, U. Niyaz, D. R. Bathula, “Dual-Level Adaptive Sampling for Enhanced Few-Shot Medical Image Classification”, 7th IEEE Symposium on Computers & Informatics (ISCI), August 2025.
 * A. S. Sambyal, U. Niyaz, N. C. Krishnan, D. R. Bathula, “LS+: Informed Label Smoothing for Improving Calibration in Medical Image Classification”, Medical Image Computing and Computer Assisted Interventions (MICCAI), Oct 2024.
 * U. Niyaz, A. S. Sambyal, D. R. Bathula,  “Wavelet-Based Feature Compression for Improved Knowledge Distillation”, IEEE 21st Int. Sym. on Biomedical Imaging (ISBI), May 2024.
