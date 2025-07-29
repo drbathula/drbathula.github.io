@@ -31,8 +31,8 @@ redirect_from:
 * U. Niyaz, D. R. Bathula, <i>“ShapeDistill: Shape-Constrained Knowledge Distillation for Medical Segmentation”</i>, 18th International Conference on Machine Vision (ICMV), October 2025.
 * R. R. Chowdhury, U. Niyaz, D. R. Bathula, <i>“Dual-Level Adaptive Sampling for Enhanced Few-Shot Medical Image Classification”</i>, 7th IEEE Symposium on Computers & Informatics (ISCI), August 2025.
 * A. S. Sambyal, U. Niyaz, N. C. Krishnan, D. R. Bathula, <i>“LS+: Informed Label Smoothing for Improving Calibration in Medical Image Classification”</i>, Medical Image Computing and Computer Assisted Interventions (MICCAI), Oct 2024.
-* U. Niyaz, A. S. Sambyal, D. R. Bathula,  “Wavelet-Based Feature Compression for Improved Knowledge Distillation”, IEEE 21st Int. Sym. on Biomedical Imaging (ISBI), May 2024.
-* A. Chaudhuri, A. S. Sambyal, D. R. Bathula,  “Mutually Exclusive Multi-Modal Approach for Parkinson’s Disease Classification”, 11th International Conference on Bioimging, February 2024.
+* U. Niyaz, A. S. Sambyal, D. R. Bathula,  <i>“Wavelet-Based Feature Compression for Improved Knowledge Distillation”</i>, IEEE 21st Int. Sym. on Biomedical Imaging (ISBI), May 2024.
+* A. Chaudhuri, A. S. Sambyal, D. R. Bathula,  <i>“Mutually Exclusive Multi-Modal Approach for Parkinson’s Disease Classification”</i>, 11th International Conference on Bioimging, February 2024.
 * J. S. Virk, D. Mahapatra, D. R. Bathula,  “Medical VQA: MixUp Helps Keep it Simple”, The 37th International Conference on Image and Vision Computing New Zealand (IVCNZ), November 2022. 
 * U. Niyaz, D. R. Bathula, “Augmenting Knowledge Distillation With Peer-To-Peer Mutual Learning For Model Compression”, IEEE 19th Int. Sym. on Biomedical Imaging (ISBI), March 2022.
 * A. S. Sambyal, N. C. Krishnan, D. R. Bathula, “Towards Reducing Aleatoric Uncertainty for Medical Imaging Tasks”, IEEE 19th Int. Sym. on Biomedical Imaging (ISBI), March 2022. 
