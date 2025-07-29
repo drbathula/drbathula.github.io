@@ -11,9 +11,9 @@ redirect_from:
 # Journal Publications
 * A. Chander, D. R. Bathula, A. Sahani, <i>“Towards an RGB Camera-Based Rehabilitation Exercise Assessment Using an Enhanced Spatio-Temporal Transformer Framework”</i>, Accepted to Multimedia Tools and Applications.
 * R. Yadav, S. Dey, et. al., D. R Bathula, P. K. Pal, <i>“Progression and natural history of Atypical Parkinsonism (ATPARK): Protocol for a longitudinal follow-up study from an underrepresented population”</i>, PLOS One, 20(6), 2025.
-* A. Sikka, S. V. Peri,  J. S. Virk, D. R. Bathula, “MRI to PET Cross-Modality Translation using Globally and Locally Aware GAN (GLA-GAN) for Multi-Modal Diagnosis of Alzheimer's Disease”, The Journal of Precision Medicine: Health and Disease, Volume 2, 2025.
-* U. Niyaz, A. S. Sambyal, D. R. Bathula, “Leveraging Different Learning Styles for Improved Knowledge Distillation”, Computers in Biology & Medicine, 168, 2024.
-* A. S. Sambyal, U. Niyaz, N. C. Krishnan, D. R. Bathula, “Understanding Calibration of Deep Neural Networks for Medical Image Classification”, Computer Methods and Programs in Biomedicine, 242, 2023.
+* A. Sikka, S. V. Peri,  J. S. Virk, D. R. Bathula, <i>“MRI to PET Cross-Modality Translation using Globally and Locally Aware GAN (GLA-GAN) for Multi-Modal Diagnosis of Alzheimer's Disease”, The Journal of Precision Medicine: Health and Disease, Volume 2, 2025.
+* U. Niyaz, A. S. Sambyal, D. R. Bathula, <i>“Leveraging Different Learning Styles for Improved Knowledge Distillation”, Computers in Biology & Medicine, 168, 2024.
+* A. S. Sambyal, U. Niyaz, N. C. Krishnan, D. R. Bathula, <i>“Understanding Calibration of Deep Neural Networks for Medical Image Classification”, Computer Methods and Programs in Biomedicine, 242, 2023.
 * S. Gallo, A. ElGazzar, P. Zhutovsky, R. M. Thomas, N. Javaheripour, M. Li, D. R. Bathula, G. van Wingen, “Thalamic hyperconnectivity as neurophysiological signature of major depressive disorder in two multicenter studies”, Molecular Psychiatry, 2023.
 * S. Bagchi, D. R. Bathula, “EEG-ConvTransformer for Single-Trial EEG based Visual Stimuli Classification”, Pattern Recognition, 129, 2022.
 * S. Andersson, D. R. Bathula, S. I Iliadis, M. Walter, A. Skalkidou, “Predicting women with depressive symptoms postpartum with machine learning methods”, Scientific Reports,  11 (1), 1-15, April 2021.
