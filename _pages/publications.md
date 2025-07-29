@@ -9,8 +9,8 @@ redirect_from:
 {% include base_path %}
   
 # Journal Publications
-* A. Chander, D. R. Bathula, A. Sahani, “Towards an RGB Camera-Based Rehabilitation Exercise Assessment Using an Enhanced Spatio-Temporal Transformer Framework”, Accepted to Multimedia Tools and Applications.
-* R. Yadav, S. Dey, et. al., D. R Bathula, P. K. Pal, “Progression and natural history of Atypical Parkinsonism (ATPARK): Protocol for a longitudinal follow-up study from an underrepresented population”, PLOS One, 20(6), 2025.
+* A. Chander, D. R. Bathula, A. Sahani, <i>“Towards an RGB Camera-Based Rehabilitation Exercise Assessment Using an Enhanced Spatio-Temporal Transformer Framework”</i>, Accepted to Multimedia Tools and Applications.
+* R. Yadav, S. Dey, et. al., D. R Bathula, P. K. Pal, <i>“Progression and natural history of Atypical Parkinsonism (ATPARK): Protocol for a longitudinal follow-up study from an underrepresented population”</i>, PLOS One, 20(6), 2025.
 * A. Sikka, S. V. Peri,  J. S. Virk, D. R. Bathula, “MRI to PET Cross-Modality Translation using Globally and Locally Aware GAN (GLA-GAN) for Multi-Modal Diagnosis of Alzheimer's Disease”, The Journal of Precision Medicine: Health and Disease, Volume 2, 2025.
 * U. Niyaz, A. S. Sambyal, D. R. Bathula, “Leveraging Different Learning Styles for Improved Knowledge Distillation”, Computers in Biology & Medicine, 168, 2024.
 * A. S. Sambyal, U. Niyaz, N. C. Krishnan, D. R. Bathula, “Understanding Calibration of Deep Neural Networks for Medical Image Classification”, Computer Methods and Programs in Biomedicine, 242, 2023.
