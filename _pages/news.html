@@ -15,7 +15,7 @@ author_profile: true
 <tr style="border:none;">
   <td width="30%" style="vertical-align: top; border:none;" valign="top" align="center">
   <a href="https://diffusion-classifier.github.io/"></a>
-    <img src="../images/Bioimaging2024.png" alt="sym" width="90%" style="padding:10px;border-radius:15px;border:1px solid black">
+    <img src="../images/ISCI2025" alt="sym" width="90%" style="padding:10px;border-radius:15px;border:1px solid black">
   </a></td>
   <td width="70%" style="vertical-align: top; border:none;" valign="top">
     <h2 style="margin-top: 0px;">Best Student Paper Award! </h2>
@@ -23,7 +23,7 @@ author_profile: true
     <!--<a href="https://diffusion-classifier.github.io/" id="MEMMPD"></a>-->
     <heading>Dual-Level Adaptive Sampling for Enhanced Few-Shot Medical Image Classification</heading><br>
     Ranjana Roy Chowdhury, Usma Niyaz and Deepti R. Bathula<br>
-    <em>ISCI 2025</em>
+    <em>7th IEEE Symposium on Computers & Informatics (ISCI) 2025</em>
     </p>
 
     <div class="paper" id="MEMMPD">
@@ -33,14 +33,33 @@ author_profile: true
     <a href="https://arxiv.org/abs/2303.16203">arXiv</a> 
     <!--<a href="https://github.com/diffusion-classifier/diffusion-classifier">code</a>-->
 
-    <p class="abstract_text" align="justify"> <span id="memmpd_abs" style="display: none;">Parkinson's Disease (PD) is a progressive neurodegenerative disorder that affects the central nervous system and causes both motor and non-motor symptoms. While movement related symptoms are the most noticeable early signs, others like loss of smell can occur quite early and are easy to miss. This suggests that multi-modal assessment has significant potential in early diagnosis of PD. Multi-modal analysis allows for synergistic fusion of complementary information for improved prediction accuracy. However, acquiring all modalities for all subjects is not only expensive but also impractical in some cases. This work attempts to address the missing modality problem where the data is mutually exclusive. Specifically, we propose to leverage two distinct and unpaired datasets to improve the classification accuracy of PD. We propose a two-stage strategy that combines individual modality classifiers to train a multi-modality classifier using Siamese network with Triplet Loss. Furthermore, we use a Max-Voting strategy applied to Mix-and-Match pairing of the unlabelled test sample of one modality with both positive and negative samples from the other modality for test-time inference. We conducted experiments using gait sensor data (PhysioNet) and clinical data (PPMI). Our experimental results demonstrate the efficacy of the proposed approach compared to the state-of-the-art methods using single modality analysis.</span></p>
+    <p class="abstract_text" align="justify"> <span id="memmpd_abs" style="display: none;">Medical image classification is often hindered by
+limited labeled data, making few-shot learning (FSL) a crucial
+approach. However, conventional FSL methods struggle with
+the high variance present in medical images. Consequently, we
+propose Dual-Level Adaptive Sampling (DLAS) to enhance FSL
+by strategically selecting the most informative class combinations
+and instances within each class. During training, our class
+sampling policy prioritizes challenging, underconfident classes
+to foster continual learning. Subsequently, instances within each
+class are weighted according to their true class probability,
+ensuring the selection of hard-to-classify samples for improved
+generalization. This dual-level strategy is seamlessly integrated
+into prototypical networks within a metric-based meta-learning
+framework and can be adapted to various few-shot learning
+models. We validate our approach through extensive quantitative
+and qualitative analyses on three benchmark medical imaging
+datasets—Derm7pt, PathMNIST, and ChestMNIST. Results show
+that our sampling framework significantly improves model gen-
+eralization and classification performance compared to existing
+State-of-the-art methods.</span></p>
 
 <pre xml:space="preserve" style="display:none;">
-@inproceedings{Chaudhuri2024MEMMPD,
-  title={Mutually Exclusive Multi-Modal Approach for Parkinson’s Disease Classification},
-  author={Chaudhuri, Arunava and Sambyal, Abhishek Singh and Bathula, Deepti R.},
-  booktitle={Bioimaging},
-  year={2024}}</pre>
+@inproceedings{Chowdhury2025ISCI,
+  title={>Dual-Level Adaptive Sampling for Enhanced Few-Shot Medical Image Classification},
+  author={Chowdhury, Ranjana Roy and Niyaz, Usma and Bathula, Deepti R.},
+  booktitle={ISCI},
+  year={2025}}</pre>
     </div>
   </td>
 </tr>
