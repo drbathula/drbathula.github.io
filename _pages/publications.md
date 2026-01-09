@@ -9,6 +9,7 @@ redirect_from:
 {% include base_path %}
   
 # Journal Publications
+* R. R. Chowdhury, U. Niyaz, D. R. Bathula, <i>“Prototypical Aggregate Network - Boosting Few-Shot Learning for Medical Image Classification”</i>, Multimedia Tools and Applications, 2026.
 * R. R. Chowdhury, D. R. Bathula, <i>“Refining Prototypes with Selective Feature Maps: A Lightweight Approach to Few-Shot Medical Image Classification”</i>, International Journal of Computer Applications. 187, 36 (Sep 2025), 55-62.
 * A. Chander, D. R. Bathula, A. Sahani, <i>“Towards an RGB Camera-Based Rehabilitation Exercise Assessment Using an Enhanced Spatio-Temporal Transformer Framework”</i>, Multimedia Tools and Applications, 2025.
 * R. Yadav, S. Dey, et. al., D. R Bathula, P. K. Pal, <i>“Progression and natural history of Atypical Parkinsonism (ATPARK): Protocol for a longitudinal follow-up study from an underrepresented population”</i>, PLOS One, 20(6), 2025.
