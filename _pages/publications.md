@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
   
 # Journal Publications
-* U. Niyaz, D. R. Bathula, <i>“SHAPER: Shape-Aware Parameter-Efficient Representation Learning for Medical Image Segmentation”</i>, Knowledge-Based Systems, 2026.
+* U. Niyaz, A. S. Sambyal, R. R. Chowdhury, D. R. Bathula, <i>“SHAPER: Shape-Aware Parameter-Efficient Representation Learning for Medical Image Segmentation”</i>, Knowledge-Based Systems, 2026.
 * R. R. Chowdhury, U. Niyaz, D. R. Bathula, <i>“Prototypical Aggregate Network - Boosting Few-Shot Learning for Medical Image Classification”</i>, Multimedia Tools and Applications, 2026.
 * R. R. Chowdhury, D. R. Bathula, <i>“Refining Prototypes with Selective Feature Maps: A Lightweight Approach to Few-Shot Medical Image Classification”</i>, International Journal of Computer Applications. 187, 36 (Sep 2025), 55-62.
 * A. Chander, D. R. Bathula, A. Sahani, <i>“Towards an RGB Camera-Based Rehabilitation Exercise Assessment Using an Enhanced Spatio-Temporal Transformer Framework”</i>, Multimedia Tools and Applications, Volume 84, pages 48283–48307, 2025.
