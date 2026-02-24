@@ -58,11 +58,12 @@ Domain Adaptation”</i>, IEEE 23rd Int. Sym. on Biomedical Imaging (ISBI), Apri
 * D. R. Bathula, X. Papademetris and J. S. Duncan, <i>“Level Set-Based Clustering of Active Regions in Functional MRI”</i>, IEEE Int. Sym. on Biomedical Imaging (ISBI), 416 – 419, April 2007, Arlington.
 
 # Extended Abstracts-Posters
+* P. Madaan, D. R. Bathula, P. Dhir, S. Negi, N. Sankhyan, S. Vyas, J. Sahu, “Resting-state functional MRI-based connectivity analysis in infantile epileptic spasms syndrome”, International Child Neurology Conference (ICNC), May 2026, Taipei, Taiwan.
 * R. R. Chowdhury, U. Niyaz, D. R. Bathula, “Class-Wise Feature Map Selection Based Prototypical Networks”, IEEE 21st Int. Sym. on Biomedical Imaging (ISBI), May 2024.
 * P. Madaan, D. R. Bathula, P. Dhir, S. Negi, N. Sankhyan, S. Vyas, J. Sahu, “Resting-state functional MRI-based connectivity analysis in infantile epileptic spasms syndrome”, International Child Neurology Conference (ICNC), May 2024, Cape Town, South Africa.
 * A. Bilal, D. R. Bathula, E. Bränn, E. Fransson, J. S. Virk, F. Papadopoulos, A. Skalkidou, “Mom2B: a study of perinatal health via smartphone application and machine learning methods”, 65(S1), S574-S575, European Psychiatry, 2022.
 * M. Li, N. Sharma, L. Danyeli, L. Colic, N. Opel, T. Chand, W. Qin, D. R. Bathula, M. Goswami, B. Zhang, Z. Duygu Sen, M. Walter, “Ketamine-Induced Ego Dissolution is Related to the Functional Connectivity Reconfiguration of the Posteromedial Cortex”, 93(9), S93, Biological Psychiatry, 2023
-* H. Jamalabadi*, A. Sikka*,  S. Alizadeh, M. Krylova, J. Van der Meer, D. R. Bathula, M. Walter, “Deep networks can learn subject-invariant electroencephalography microstate sequences”, Organization for Human Brain Mapping  (OHBM), June 2018, Singapore.
+* H. Jamalabadi, A. Sikka,  S. Alizadeh, M. Krylova, J. Van der Meer, D. R. Bathula, M. Walter, “Deep networks can learn subject-invariant electroencephalography microstate sequences”, Organization for Human Brain Mapping  (OHBM), June 2018, Singapore.
 * K. L. Mills, D. R. Bathula, et. al. “Altered cortico-striatal-thalamic connectivity in relation to spatial working memory capacity in children with ADHD”, Neuroscience (SFN), November 2011, Washington, DC.
 * D. A. Fair, D. R. Bathula, Joel Nigg, et. al. “Using resting-state fcMRI to characterize the developmental course of subjects with ADHD”, Human Brain Mapping (HBM), June 2011, Québec City, Canada.
 * T. Costa Dias, E. Musser, V. Wilson, D. R. Bathula, et. al. “Reward circuit connectivity relates to delay discounting in children with ADHD”, Human Brain Mapping (HBM), June 2011, Québec City, Canada.
