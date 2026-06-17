@@ -12,7 +12,45 @@ author_profile: true
 <table width="100%" align="center" border="0" border-spacing="0" cellspacing="0" cellpadding="15" style="border:none;">
 <br/>
 
-<tr style="border:none;">
+
+  <tr style="border:none;">
+  <td width="30%" style="vertical-align: top; border:none;" valign="top" align="center">
+  <a href="https://diffusion-classifier.github.io/"></a>
+    <img src="../images/Brain2Text.JPG" alt="sym" width="90%" style="padding:10px;border-radius:15px;border:1px solid black">
+  </a></td>
+  <td width="70%" style="vertical-align: top; border:none;" valign="top">
+    <h2 style="margin-top: 0px;">Accepted to MICCAI 2026!</h2>
+    <p>
+    <!--<a href="https://diffusion-classifier.github.io/" id="MEMMPD"></a>-->
+    <heading>Cut, Stitch, Adapt: Data-Efficient and Low-Calibration Speech BCIs</heading><br>
+    Animan Naskar, Ankush Naskar and Deepti R. Bathula<br>
+    <em>MICCAI 2026</em>
+    </p>
+
+    <div class="paper" id="BCI">
+    <!--<a href="https://diffusion-classifier.github.io/">webpage</a> |-->
+    <a href="javascript:toggleblock('BCI_abs')" class="boxed boxed_publication">abstract</a> |
+    <a shape="rect" href="javascript:togglebib('LSplus')" class="togglebib boxed boxed_publication">bibtex</a>
+    <!--<a href="https://arxiv.org/abs/2303.16203">arXiv</a>-->
+    <!--<a href="https://github.com/diffusion-classifier/diffusion-classifier">code</a>-->
+
+    <p class="abstract_text" align="justify"> <span id="LSplus_abs" style="display: none;">Intracortical Brain--Computer Interfaces (iBCIs) for speech decoding show immense promise in translating neural activity into text. However, clinical viability remains severely constrained by labeled data scarcity and the continuous physical drift of neural representations over time. Contemporary approaches increasingly rely on massive cross-species pretraining and large ensembles to achieve high accuracy. While effective, these brute-force scaling strategies incur prohibitive computational costs and still require daily recalibration data to counteract electrode drift. \cite{Degenhart2020,Ganin2016}
+In this work, we propose a streamlined, data-efficient pipeline that requires only 40 hrs of patient data and achieves domain generalization to unseen recording sessions. To overcome data limitations, we propose Neural Cut-and-Stitch (NCS), a signal-space augmentation strategy. By isolating the neural patterns of individual words from past recordings, we use a crossfade stitching method to synthesize continuous brain signals for entirely new sentences. Additionally, to improve generalization to unseen sessions, we introduce an Adversarial Domain Adaptation (ADAN) framework. This explicitly enforces a session-invariant neural manifold, retaining high acoustic decoding performance with far lesser calibration.
+Experiments on the Brain-to-Text'25 benchmark demonstrate that NCS alone reduces the Phoneme Error Rate (PER) from 10.1% to 8.8% on the held-out test set. Combining it with the baseline, we reduce the Word Error Rate (WER) from 7.0% to 4.8%. Concurrently, ADAN confines PER degradation on unseen sessions 15 days into the future to < 2% change. These gains emphasize that signal augmentation and domain adaptation can be complementary to large-scale pretraining while reducing reliance on daily supervised recalibration for deployment.</span></p>
+
+<pre xml:space="preserve" style="display:none;">
+@inproceedings{Naskar2026MICCAI,
+  title={Cut, Stitch, Adapt: Data-Efficient and Low-Calibration Speech BCIs},
+  author={Naskar, Animan and Naskar, Ankush and Bathula, Deepti R.},
+  booktitle={MICCAI},
+  year={2026}}</pre>
+    </div>
+  </td>
+</tr>
+  
+  
+  
+  <tr style="border:none;">
   <td width="30%" style="vertical-align: top; border:none;" valign="top" align="center">
   <a href="https://diffusion-classifier.github.io/"></a>
     <img src="../images/StressRL.JPG" alt="sym" width="90%" style="padding:10px;border-radius:15px;border:1px solid black">
