@@ -9,6 +9,7 @@ redirect_from:
 {% include base_path %}
   
 # Journal Publications
+* A. Chaudhuri, A. S. Sambyal, D. R. Bathula, <i>“MEM4S: Mutually Exclusive Multi-Modal Mix-n-Match Strategy For Parkinson’s Disease Classification”</i>, Accepted to SN Computer Science, June 2026.
 * U. Niyaz, A. S. Sambyal, R. R. Chowdhury, D. R. Bathula, <i>“SHAPER: Shape-Aware Parameter-Efficient Representation Learning for Medical Image Segmentation”</i>, Knowledge-Based Systems, 2026.
 * R. R. Chowdhury, U. Niyaz, D. R. Bathula, <i>“Prototypical Aggregate Network - Boosting Few-Shot Learning for Medical Image Classification”</i>, Multimedia Tools and Applications, 2026.
 * R. R. Chowdhury, D. R. Bathula, <i>“Refining Prototypes with Selective Feature Maps: A Lightweight Approach to Few-Shot Medical Image Classification”</i>, International Journal of Computer Applications. 187, 36 (Sep 2025), 55-62.
@@ -31,8 +32,8 @@ redirect_from:
 * D. A. Fair, D. R. Bathula, K. L. Mills, T. G. Costa Dias, M. S. Blythe, D. Zhang, A. Z. Snyder, M. E. Raichle, A. A. Stevens, J. T. Nigg, B. J. Nagel, <i>“Maturing thalamocortical functional connectivity across development”</i>, Frontiers in Systems Neuroscience, 4:10, May 2010.
 
 # Peer-Reviewed Conference Publications
-* S. Kochhar, N. Thakur, K. Heilmann, L. Colic, L. Hamid, T. Chand, M. Walter, V. Engert, D. R. Bathula, <i>“Personalized Stress Detection Through Reinforcement Learning Based
-Domain Adaptation”</i>, IEEE 23rd Int. Sym. on Biomedical Imaging (ISBI), April 2026.
+* A. Naskar, A. Naskar, D. R. Bathula, <i>“Cut, Stitch, Adapt: Data-Efficient and Low-Calibration Speech BCIs”</i>, Medical Image Computing and Computer Assisted Interventions (MICCAI), Oct 2026.
+* S. Kochhar, N. Thakur, K. Heilmann, L. Colic, L. Hamid, T. Chand, M. Walter, V. Engert, D. R. Bathula, <i>“Personalized Stress Detection Through Reinforcement Learning Based Domain Adaptation”</i>, IEEE 23rd Int. Sym. on Biomedical Imaging (ISBI), April 2026.
 * R. R. Chowdhury, D. R. Bathula, <i>“Meta-Guided Sampling for Improved Few-Shot Learning in Skin Cancer Classification”</i>, IEEE 23rd Int. Sym. on Biomedical Imaging (ISBI), April 2026.
 * U. Niyaz, D. R. Bathula, <i>“ShapeDistill: Shape-Constrained Knowledge Distillation for Medical Segmentation”</i>, 18th International Conference on Machine Vision (ICMV), October 2025.
 * R. R. Chowdhury, U. Niyaz, D. R. Bathula, <i>“Dual-Level Adaptive Sampling for Enhanced Few-Shot Medical Image Classification”</i>, 7th IEEE Symposium on Computers & Informatics (ISCI), August 2025.
