@@ -5,11 +5,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
   
 # Journal Publications
-* A. Gupta, R. S. Reddy, D. R. Bathula, K. Jayaraman, <i>“Lightweight Asymmetric CNN (ACNN)-based Real-Time HRC Fault Diagnosis in BLDC Motor Drives”</i>, Accepted to IEEE Transactions on Industrial Informatics (TII), October 2026.
+* A. Gupta, J. Goel, T. Goyal, S. R. Ravula, D. R. Bathula, K. Jayaraman, <i>“Lightweight Asymmetric CNN (ACNN)-based Real-Time HRC Fault Diagnosis in BLDC Motor Drives”</i>, Accepted to IEEE Transactions on Industrial Informatics (TII), October 2026.
 * A. Chaudhuri, A. S. Sambyal, D. R. Bathula, <i>“MEM4S: Mutually Exclusive Multi-Modal Mix-n-Match Strategy For Parkinson’s Disease Classification”</i>, Accepted to SN Computer Science, June 2026.
 * U. Niyaz, A. S. Sambyal, R. R. Chowdhury, D. R. Bathula, <i>“SHAPER: Shape-Aware Parameter-Efficient Representation Learning for Medical Image Segmentation”</i>, Knowledge-Based Systems, 2026.
 * R. R. Chowdhury, U. Niyaz, D. R. Bathula, <i>“Prototypical Aggregate Network - Boosting Few-Shot Learning for Medical Image Classification”</i>, Multimedia Tools and Applications, 2026.
